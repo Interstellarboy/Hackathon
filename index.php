@@ -5,6 +5,7 @@ include('database.inc.php');
 <!DOCTYPE html>
 <html lang="en">
    <head>
+<!-- 	   this file contains php-->
       <meta charset="utf-8">
       <meta name="robots" content="noindex, nofollow">
       <title>PHP Chatbot</title>
